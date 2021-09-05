@@ -12,7 +12,7 @@
   - DecisionTreeClassifier
   - RandomForestClassifier
 - Imblearn when dealing with classification with imbalanced classes.
-- Finally Neural Network to imporve ACC
+- Finally use Neural Network to imporve ACC
 
 ### This model with accuracy 100%.
 
