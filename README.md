@@ -4,7 +4,12 @@
 ## Dataset from kaggle
 - [Credit card](https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv")
 ---------------------------------------------------------------------------
-- Logistic Regression
-- RandomForestClassifier
+## Used:
+- Algorithms:
+  - LogisticRegression
+  - SVC
+  - KNeighborsClassifier
+  - DecisionTreeClassifier
+  - RandomForestClassifier
 - 
 
