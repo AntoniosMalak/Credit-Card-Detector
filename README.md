@@ -14,7 +14,7 @@
 - Imblearn when dealing with classification with imbalanced classes.
 - Finally use Neural Network to imporve ACC
 
-### This model with accuracy 99.8%
+### This model with accuracy 99.9%
 
 
 ## Reference 
