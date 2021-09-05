@@ -14,7 +14,7 @@
 - Imblearn when dealing with classification with imbalanced classes.
 - Finally Neural Network to imporve ACC
 
-### In this model accuarcy 100%
+### This model with acc accuarcy 100%.
 
-## Referance [Janio Martinez Bachmann](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
+## Referance [kaggle](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
 
