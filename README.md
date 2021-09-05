@@ -1,6 +1,10 @@
 # Credit-Card-Detector
-## Dataset 
+- This model to see if credit card is fraud or not
+---------------------------------------------------------------------------
+## Dataset from kaggle
 - [Credit card](https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv")
 ---------------------------------------------------------------------------
+- Logistic Regression
+- RandomForestClassifier
+- 
 
-- This model to see if credit card is fraud or not 
