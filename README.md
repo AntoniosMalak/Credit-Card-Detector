@@ -14,9 +14,7 @@
 - Imblearn when dealing with classification with imbalanced classes.
 - Finally use Neural Network to imporve ACC
 
-### This model with accuracy
-- Random UnderSampling	0.952632
--	Oversampling (SMOTE)	0.988308
+### This model with accuracy 99.8%
 
 
 ## Reference 
